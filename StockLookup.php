@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html>
-<!--
-StockLookup.php
-David Brutsch
-A php web program that reads in a company ticker from a web form and prints out stock details.  
--->
 
 <?php 
    //Start first PHP section
